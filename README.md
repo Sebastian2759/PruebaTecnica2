@@ -6,8 +6,8 @@ PruebaTecnica2 es un proyecto desarrollado en .NET Core 8.0 que sigue una arquit
 
 - .NET Core: 8.0
 - Biblioteca de Clases .NET Standard: 8.0
-- Entity Framework Core: [Versión específica aquí]
-- AutoMapper: [Versión específica aquí]
+- Entity Framework Core: [8.0]
+- AutoMapper: [13.0.0]
 
 ## Estructura del Proyecto
 
@@ -26,6 +26,7 @@ El proyecto sigue una estructura de carpetas organizada para separar claramente 
 - **Infraestructure.Api**: Proyecto de API web.
   - **Controllers**: Controladores de la API.
   - **Properties**: Configuraciones de propiedades del proyecto.
+    
 ## Instalación y Uso
 
 Para instalar y utilizar el proyecto, sigue estos pasos:
